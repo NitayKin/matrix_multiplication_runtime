@@ -13,5 +13,8 @@ install:
 sudo make
 sudo make install
 
+usage:
+multiplier (inside terminal)
+
 uninstall:
 sudo make uninstall
