@@ -8,3 +8,10 @@ If the two matrices can be multiplied by one another, the program will generate 
 At the end of the calculation, you will be prompted about the elapsed time between the start of the calculation and its end, which makes it easy to compare the times between the two methods with different variations of dimensions and number of threads.
 
 no memory leaks were found using valgrind.
+
+install:
+sudo make
+sudo make install
+
+uninstall:
+sudo make uninstall
