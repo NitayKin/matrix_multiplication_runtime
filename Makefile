@@ -20,6 +20,4 @@ uninstall:
 
 clean:
 	rm -f $(BIN)
-	rm -f src/*.o
-	rm -f $(PY)
-
+	rm -f *.o
